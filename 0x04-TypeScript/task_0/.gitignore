@@ -1,6 +1,0 @@
-node_modules
-*.pem
-*.key
-*.env
-id_rsa
-
